@@ -13,6 +13,6 @@
 
 ## About Me
 Answer the questions below
-* Something interesting about me is i am a pickle lover
+* Something interesting about me is i am a pickle lover lalalalala
 * Ask Mr. Vu anything: do you like ice cream
 * List your sports and extracurriculars you participate in - volleyball, WiSTEM club, NHS, LinkCrew
